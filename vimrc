@@ -114,4 +114,7 @@ set ignorecase      " Ignore case when searching...
 set smartcase       " ...unless we type a capital
 
 " ================ Custom Settings ========================
+syntax enable
+set background=light
+colorscheme solarized
 so ~/.yadr/vim/settings.vim
