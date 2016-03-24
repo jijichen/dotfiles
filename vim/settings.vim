@@ -15,5 +15,5 @@ for fpath in split(globpath(vimsettings, '*.vim'), '\n')
 endfor
 
 syntax enable
-set background=light
+set background=dark
 colorscheme solarized

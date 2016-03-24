@@ -115,6 +115,6 @@ set smartcase       " ...unless we type a capital
 
 " ================ Custom Settings ========================
 syntax enable
-set background=light
+set background=dark
 colorscheme solarized
 so ~/.yadr/vim/settings.vim
